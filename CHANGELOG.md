@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.0.2
+
+- Created BJH-plot.py:
+    - Plots BJH cumulative volume and dV .
+    - Generates image files saves in BJH directory.
+- Renaming of files and directories.
+
 ## v0.0.1
 
 - Initial project set-up:
